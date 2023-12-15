@@ -237,8 +237,8 @@ O site é responsivo e ajusta-se automaticamente a diferentes tamanhos de tela. 
 
 O projeto foi pensado e elaborado em dupla, composto por:
 
-- [**Daniel Vieira**](https://github.com/vieiradaniels){:target="_blank"}
-- [**Gabriel Costa**](https://github.com/Princeofskyy){:target="_blank"}
+- <a href="https://github.com/vieiradaniels" target="_blank">**Daniel Vieira**</a>
+- <a href="https://github.com/Princeofskyy" target="_blank">**Gabriel Costa**</a>
 
 
 ### Contribuição
