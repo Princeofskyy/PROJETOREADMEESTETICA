@@ -16,10 +16,10 @@ Bem-vindo ao repositório do Glow Up Facial Spa, um site dedicado a apresentar o
 
 O Glow Up Facial Spa é um site que destaca os tratamentos de estética facial oferecidos por profissionais altamente qualificados. O projeto inclui seções para apresentação, serviços, equipe médica e informações de contato. Exemplo do site abaixo:
 
-<img src="./imagens/apresentacao.jpg" alt="apresentacao" width="1000" height="444">
-<img src="./imagens/servicos.png" alt="servicos" width="1000" height="444">
-<img src="./imagens/equipe.jpg" alt="equipe" width="1000" height="444">
-<img src="./imagens/contato.jpg" alt="equipe" width="1000" height="444">
+<img src="./EsteticaFacial/imagens/apresentacao.jpg" alt="apresentacao" width="1000" height="444">
+<img src="./EsteticaFacial/imagens/servicos.png" alt="servicos" width="1000" height="444">
+<img src="./EsteticaFacial/imagens/equipe.jpg" alt="equipe" width="1000" height="444">
+<img src="./EsteticaFacial/imagens/contato.jpg" alt="equipe" width="1000" height="444">
 
 
 ## Estrutura do Projeto
